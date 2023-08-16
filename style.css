@@ -92,7 +92,7 @@ body {
 
 .card img {
   border-radius: 50%;
-  width: 80%;
+  width: 80% !important;
 }
 
 .card h4 {
